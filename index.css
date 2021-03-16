@@ -52,7 +52,15 @@ img{
 	display:none !important;
 	opacity:.01 !important;
 }
-
+.report-title {
+	text-align: center;
+	font-family:"Futura Bold", Helvetica, sans-serif;
+	color:#000000;
+	line-height:120%;
+	font-size:46px;
+	padding: 0 100px;
+	mso-line-height-rule:exactly;
+}
 @media only screen and (max-width: 700px){
 	 .no-padding-mobile{
 		 padding: 10px 0 !important;
@@ -106,6 +114,10 @@ img{
 	}
 	.mobile-font{
 		font-size:13px !important;
+	}
+	.report-title {
+		font-size:30px;
+		padding: 0;
 	}
 }
 
