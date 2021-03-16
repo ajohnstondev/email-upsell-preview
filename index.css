@@ -121,7 +121,6 @@ img{
 	}
 }
 
-
 .button {
   background-image: linear-gradient(90deg, #facd48, #f4ae42);
 }
@@ -131,4 +130,3 @@ img{
 .button:after {
   background-image: linear-gradient(90deg, transparent, #f4ae42);
 }
-
